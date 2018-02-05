@@ -13,7 +13,7 @@ Your task will be to create a React element that represents _you_ (or a close ap
 <div class="me">
   <h1>An Awesome Person</h1>
   <p>Who is learning React</p>
-  
+
   <ul class="my-interests">
     <li>JavaScript</li>
     <li>React</li>
@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-To run the test suite type this in the terminal: 
+To run the test suite type this in the terminal:
 
 ```
 npm test
@@ -38,7 +38,7 @@ npm test
 
 Feel free to render out the component in the DOM using `ReactDOM.render()`.
 
-## NOTE!! 
+## NOTE!!
 
 Ignore this error message:
 
