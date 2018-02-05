@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const me
+const meInReact = 
 
 ReactDOM.render(
   meInReact,
