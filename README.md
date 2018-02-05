@@ -1,4 +1,4 @@
-np# React createElement() Lab
+# React createElement() Lab
 
 ## Overview
 
